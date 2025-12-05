@@ -26,7 +26,7 @@ AI agents coordinate migration per project, handle build/test pipelines, and gen
 
 Engineers focus only on flagged high-risk areas while the agent handles 80–90% of repetitive transformation work.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bce68b9e-f5c3-4579-94fb-db1880e490b2" />
 
-![Uploading image.png…]()
 
 
